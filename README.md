@@ -33,8 +33,18 @@ A Python-based web scraper that collects details about Broadway shows from [IBDB
 
 6. Compares against existing data to detect new entries
 
+## 📁 Sample Output
 
+![image](https://github.com/user-attachments/assets/21569cc0-ad0a-43a0-ac43-0ca7ae019a40)
 
+## 📧 Email Notification Example
+You’ll receive messages like:
+
+Subject: New IBDB Shows Detected: 2 New Show(s)
+
+- Funny Girl (Opening: Apr 24, 2025)
+  
+- Link: https://www.ibdb.com/show/funny-girl-2025
 
 
 
