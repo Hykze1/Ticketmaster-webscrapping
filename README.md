@@ -23,7 +23,7 @@ A Python-based web scraper that collects details about Broadway shows from [IBDB
 ### Scraper Logic
 1. Launches Chrome using Selenium
 
-2. Navigates to https://www.ibdb.com/shows
+2. Navigates to [https://www.ibdb.com/shows](https://github.com/Hykze1/Ticketmaster-webscrapping/blob/main/Ticketmaster.ipynb)
 
 3. Parses the page with BeautifulSoup
 
