@@ -9,7 +9,8 @@ This Python script automatically scrapes Broadway show data from [IBDB.com](http
 Even if you're not familiar with coding, here's what each part does:
 
 1. **Launches a browser (automatically):**
-   The script uses a tool called Selenium to open Chrome and go to the IBDB shows page.
+   The script uses a tool called Selenium to open Chrome and go to [the IBDB shows page](https://github.com/Hykze1/Ticketmaster-webscrapping/blob/main/Ticketmaster.ipynb) 
+   to copy the script and run
 
 2. **Finds show listings:**
    It waits until all the shows are visible, then grabs the HTML content of each show block.
