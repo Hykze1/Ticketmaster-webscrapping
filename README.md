@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6faef1c2-2c35-4b2c-8849-54fa26632598)
+
+
 ## 📄 IBDB Web Scraper
 
 This Python script automatically scrapes Broadway show data from [IBDB.com](https://www.ibdb.com/shows), saves the data, and notifies you by email if new shows are detected.
